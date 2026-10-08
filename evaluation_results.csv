@@ -1,0 +1,3 @@
+segment,Precision@10,Recall@10,NDCG@10
+Simulated Cold Start (4 interactions),0.0032500000000000007,0.0325,0.014033223877485814
+Warm Users,0.00125,0.0125,0.0047786574649227725
