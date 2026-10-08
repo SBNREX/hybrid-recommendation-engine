@@ -4,3 +4,5 @@ __pycache__/
 .DS_Store
 node_modules/
 frontend/dist/
+ml-1m/
+ml-1m.zip
